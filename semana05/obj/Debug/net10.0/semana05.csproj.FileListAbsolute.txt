@@ -1,0 +1,15 @@
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\bin\Debug\net10.0\semana05.exe
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\bin\Debug\net10.0\semana05.deps.json
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\bin\Debug\net10.0\semana05.runtimeconfig.json
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\bin\Debug\net10.0\semana05.dll
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\bin\Debug\net10.0\semana05.pdb
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.AssemblyInfoInputs.cache
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.AssemblyInfo.cs
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.csproj.CoreCompileInputs.cache
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.sourcelink.json
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.dll
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\refint\semana05.dll
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.pdb
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\semana05.genruntimeconfig.cache
+C:\Users\USERJUL20\Documents\PROYECTO\semana05\obj\Debug\net10.0\ref\semana05.dll
